@@ -1,0 +1,11 @@
+$ tail history.txt
+  250  grep Biarritz,France,2018,JavaScript php_france_2019.csv > Biarritz2018.csv
+  251  grep Biarritz,France,2019,JavaScript php_france_2019.csv > Biarritz2019.csv
+  252  grep Toulouse,France,2017,JavaScript php_france_2019.csv > Toulouse2017.csv
+  253  grep Toulouse,France,2018,JavaScript php_france_2019.csv > Toulouse2018.csv
+  254  grep Toulouse,France,2019,JavaScript php_france_2019.csv > Toulouse2019.csv
+  255  cat Biarritz2017.csv Biarritz2018.csv Biarritz2019.csv Toulouse2017.csv Toulouse2018.csv Toulouse2019.csv
+  256  wc
+  257  cat javascript_biarritz_toulouse.csv
+  258  cat > history.txt
+  259  tail history.txt
