@@ -1,3 +1,18 @@
+$ grep "France,2019,PHP" < php_france_2019.csv
+
+$ tail history_php.txt
+Joseph,Rodriguez,Toulouse,France,2019,PHP
+Camille,Raymond,Toulouse,France,2019,PHP
+Anastasie,Roux,Toulouse,France,2019,PHP
+Richard,Rodrigues,Toulouse,France,2019,PHP
+Julie,Perez,Tours,France,2019,PHP
+Zoé,Vasseur,Tours,France,2019,PHP
+Anaïs,Lebon,Tours,France,2019,PHP
+Henri,Riviere,Tours,France,2019,PHP
+Françoise,Godard,Tours,France,2019,PHP
+     97     111    3819
+
+
 $ tail history.txt
   250  grep Biarritz,France,2018,JavaScript php_france_2019.csv > Biarritz2018.csv
   251  grep Biarritz,France,2019,JavaScript php_france_2019.csv > Biarritz2019.csv
